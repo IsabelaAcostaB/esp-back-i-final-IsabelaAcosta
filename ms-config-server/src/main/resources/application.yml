@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/IsabelaAcostaB/esp-back-i-final-IsabelaAcosta-
+          uri: https://github.com/IsabelaAcostaB/esp-back-i-final-IsabelaAcosta
           default-label: develop
           force-pull: true
           search-paths: configs
