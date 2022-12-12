@@ -1,0 +1,27 @@
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+spring:
+  rabbitmq:
+    username: guest
+    password: guest
+    host: localhost
+    port: 5672
+  zipkin:
+    baseUrl: http://localhost:9411/
+  application:
+    name: api-movie
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/movies-dev-mysql
+    username: usr-movies-mysql-dev
+    password: pwd-movies-mysql-dev
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

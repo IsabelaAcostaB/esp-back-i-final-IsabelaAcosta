@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b64cace6-f038-41f3-9840-f3186a2519b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/service/CatalogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/controller/CatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/controller/CatalogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/repository/MovieRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IkIyLN42L9lbLU1as7nnMZcRi3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Isa/Documents/DH/BE_II/Final/finalTomi/esp-back-i-parcial-TomasACaceres",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b64cace6-f038-41f3-9840-f3186a2519b9" name="Changes" comment="" />
+      <created>1670719419040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670719419040</updated>
+      <workItem from="1670719427662" duration="18000" />
+      <workItem from="1670858501434" duration="80000" />
+      <workItem from="1670858619064" duration="263000" />
+      <workItem from="1670858987280" duration="427000" />
+      <workItem from="1670859455038" duration="8000" />
+      <workItem from="1670859539599" duration="33000" />
+      <workItem from="1670859805302" duration="74000" />
+      <workItem from="1670860484065" duration="3740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
