@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b64cace6-f038-41f3-9840-f3186a2519b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/service/CatalogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/controller/CatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/controller/CatalogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-catalog/src/main/java/com/dh/catalog/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/ms-gateway-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/ms-gateway-server.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Isa/Documents/DH/BE_II/Final/finalTomi/esp-back-i-parcial-TomasACaceres",
+    "last_opened_file_path": "C:/Users/Isa/Documents/DH/FINAL/esp-back-i-final-IsabelaAcosta",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -59,6 +56,7 @@
       <workItem from="1670859539599" duration="33000" />
       <workItem from="1670859805302" duration="74000" />
       <workItem from="1670860484065" duration="3740000" />
+      <workItem from="1670885097759" duration="315000" />
     </task>
     <servers />
   </component>
