@@ -4,10 +4,10 @@ services:
     image: mysql:5.7
     restart: always
     environment:
-      MYSQL_DATABASE: 'movies-dev-mysql'
-      MYSQL_USER: 'usr-movies-mysql'
-      MYSQL_PASSWORD: 'pwd-movies-mysql'
-      MYSQL_ROOT_PASSWORD: 'pwd-movies-mysql'
+      MYSQL_DATABASE: 'movie-dev-mysql'
+      MYSQL_USER: 'usr-movies-mysql-dev'
+      MYSQL_PASSWORD: 'pwd-movies-mysql-dev'
+      MYSQL_ROOT_PASSWORD: 'pwd-movies-mysql-dev'
     ports:
       - '3306:3306'
     expose:
