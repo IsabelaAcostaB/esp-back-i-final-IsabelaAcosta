@@ -4,7 +4,7 @@ services:
     image: mysql:5.7
     restart: always
     environment:
-      MYSQL_DATABASE: 'movie-dev-mysql'
+      MYSQL_DATABASE: 'movies-dev-mysql'
       MYSQL_USER: 'usr-movies-mysql-dev'
       MYSQL_PASSWORD: 'pwd-movies-mysql-dev'
       MYSQL_ROOT_PASSWORD: 'pwd-movies-mysql-dev'
@@ -30,6 +30,7 @@ services:
       - 27017
     volumes:
       - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+
   zipkin-container:
     image: openzipkin/zipkin-slim
     container_name: zipkin-container
